@@ -1,0 +1,37 @@
+@font-face{
+    font-family:'Bolt';
+    src: url('front/OpenSans-Bold.ttf');
+}
+
+#navigazione {
+    background-color: black;
+    font-family: 'Bolt', sans-serif;
+     height:50px;
+     padding-top:2%;
+}
+
+#listaLink{
+    float:right;
+    display: inline;
+    list-style: none;
+    margin: 0px;
+    padding-left: 0px;
+}
+li{
+    display: inline;       
+
+}
+#titolo{
+    color: aliceblue;
+}
+
+#testo1{
+    margin-top: 0px;
+    text-align: left;
+    background-image: url('image/flykid.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+
+}
